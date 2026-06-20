@@ -17,7 +17,7 @@ To analyze and visualize the Titanic dataset and answer questions like:
 ## 📁 Project Structure
 
 ```
-Titanic-EDA/
+titanic-eda/
 │
 ├── Titanic.ipynb       # Main Jupyter Notebook with all analysis
 ├── train.csv           # Titanic dataset (from Kaggle)
@@ -82,8 +82,8 @@ The dataset used is the Titanic dataset from [Kaggle](https://www.kaggle.com/c/t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Titanic-EDA.git
-cd Titanic-EDA
+git clone https://github.com/akshaytyagi0007/titanic-eda
+cd titanic-eda
 ```
 
 2. Install required libraries
